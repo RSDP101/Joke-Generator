@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+
+    background-color: #1d9275;
+}
+
+#myButton{
+    display: inline-block;
+    margin: 20px;
+    font-size: 20px;
+    padding: 10px 20px;
+    border: 2px solid #333333f4;
+    background-color: #4cafaa;
+    color: #fff;
+}
+#jokebox {
+    background-color: antiquewhite;
+    margin: 20px;
+    width: 30vw;
+    height: 10vh;
+}
+
